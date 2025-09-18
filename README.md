@@ -1,5 +1,9 @@
 # GEM-60: Governance Exposure Method
 
+---
+The simplest most powerful test of whether a system is governable under pressure.
+---
+
 **GEM-60** is a one-hour, live-exposure drill that tests whether a system can be governed under pressure. It is designed to expose whether a system permits **refusal**, **escalation**, **exit**, and **traceability**—without prior setup, vendor intervention, or narrative explanation.
 
 This is not an audit.  
