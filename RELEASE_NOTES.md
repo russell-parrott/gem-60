@@ -20,22 +20,28 @@ This release includes the full canonical protocol, deployment guides, recording 
 
 ---
 
-### Included in v1.0.0
+## Repository Contents
 
-| File / Directory                   | Description                                               |
-| ---------------------------------- | --------------------------------------------------------- |
-| `README.md`                        | Canonical description and index of GEM-60                 |
-| `LICENSE.md`                       | CC BY-NC-ND 4.0 non-commercial, no-derivatives license    |
-| `GEM-60_PROTOCOL.md`               | Full procedural walkthrough of the live drill             |
-| `APPLICATION_GUIDE.md`             | Step-by-step guidance for organisational implementation   |
-| `RECORDING_TEMPLATE.md`            | Mandatory logging table for outcome documentation         |
-| `FAQ.md`                           | Clarifications on use, validity, and institutional limits |
-| `STRUCTURAL_TESTS/`                | Formal definitions of the four structural tests (R/E/E/T) |
-| `STRUCTURAL_TESTS/REFUSAL.md`      | Can the system be stopped in time?                        |
-| `STRUCTURAL_TESTS/ESCALATION.md`   | Can incidents be escalated without social dependency?     |
-| `STRUCTURAL_TESTS/EXIT.md`         | Can the system be exited cleanly, without mediation?      |
-| `STRUCTURAL_TESTS/TRACEABILITY.md` | Can decisions be fully reconstructed without insiders?    |
+| File / Directory             | Purpose                                                          |
+| ---------------------------- | ---------------------------------------------------------------- |
+| `README.md`                  | Overview of GEM-60, purpose, and usage                           |
+| `GEM-60_PROTOCOL.md`         | Canonical protocol and enforcement conditions                    |
+| `APPLICATION_GUIDE.md`       | Step-by-step instructions for running a live drill               |
+| `RECORDING_TEMPLATE.md`      | Log format for observed certification drill                      |
+| `FAQ.md`                     | Key clarifications and deployment questions                      |
+| `Certification/PRICING.md`   | Certification cost structure and rationale                       |
+| `CERTIFICATION.md`           | Rules and limits of formal certification                         |
+| `Certification/OBSERVER_AGREEMENT.md` | Terms and obligations of structural observers                    |
+| `Certification/DRILL_REQUEST_FORM.md` | Intake form for initiating a formal certification drill          |
+| `GEM60_CERTIFIED_SYSTEMS.md` | Public registry of systems that passed all 4 GEM-60 tests        |
+| `REGISTRY_FORMAT.md`         | Official field and format specification for new registry entries |
+| `STRUCTURAL_TESTS/`          | Directory containing the 4 structural test definitions           |
+| └ `REFUSAL.md`               | Test for refusal logic enforcement                               |
+| └ `ESCALATION.md`            | Test for suppression of escalation                               |
+| └ `EXIT.md`                  | Test for obstruction of user or system exit                      |
+| └ `TRACEABILITY.md`          | Test for removal or failure of audit chain                       |
 
+---
 ---
 
 ### What This Release Establishes
