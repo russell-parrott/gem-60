@@ -127,4 +127,5 @@ It requires no privileged access. It runs entirely from the user perspective.
 ### Who maintains GEM-60?
 
 GEM-60 is authored and maintained by **Russell Parrott**. Contact for alignment, results, or institutional deployment:
+
 📩 **[parrott.russell@gmail.com](mailto:parrott.russell@gmail.com)**
