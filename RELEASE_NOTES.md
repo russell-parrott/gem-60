@@ -29,12 +29,12 @@ This release includes the full canonical protocol, deployment guides, recording 
 | `APPLICATION_GUIDE.md`       | Step-by-step instructions for running a live drill               |
 | `RECORDING_TEMPLATE.md`      | Log format for observed certification drill                      |
 | `FAQ.md`                     | Key clarifications and deployment questions                      |
-| `Certification/PRICING.md`   | Certification cost structure and rationale                       |
+| `GEM60_CERTIFIED_SYSTEMS.md` | Public registry of systems that passed all 4 GEM-60 tests        |
 | `CERTIFICATION.md`           | Rules and limits of formal certification                         |
+| `Certification/PRICING.md`   | Certification cost structure and rationale                       |
 | `Certification/OBSERVER_AGREEMENT.md` | Terms and obligations of structural observers                    |
 | `Certification/DRILL_REQUEST_FORM.md` | Intake form for initiating a formal certification drill          |
-| `GEM60_CERTIFIED_SYSTEMS.md` | Public registry of systems that passed all 4 GEM-60 tests        |
-| `REGISTRY_FORMAT.md`         | Official field and format specification for new registry entries |
+| `Certification/REGISTRY_FORMAT.md` | Official field and format specification for new registry entries |
 | `STRUCTURAL_TESTS/`          | Directory containing the 4 structural test definitions           |
 | └ `REFUSAL.md`               | Test for refusal logic enforcement                               |
 | └ `ESCALATION.md`            | Test for suppression of escalation                               |
