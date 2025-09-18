@@ -55,15 +55,24 @@ All tests must follow strict control rules—no admin overrides, no outside help
 
 ## Repository Contents
 
-| File / Folder             | Description                                                                 |
-|---------------------------|-----------------------------------------------------------------------------|
-| `README.md`               | Canonical entry point for GEM-60                                            |
-| `GEM-60_PROTOCOL.md`      | Full procedural walkthrough of the one-hour drill                           |
-| `APPLICATION_GUIDE.md`    | Guidance for institutions preparing to run GEM-60                           |
-| `RECORDING_TEMPLATE.md`   | Official results table used to log test outcomes                            |
-| `STRUCTURAL_TESTS/`       | Definitions and conditions for each of the four structural tests            |
-| `FAQ.md`                  | Institutional questions, clarified in plain structural terms                |
-| `LICENSE.md`              | Legal terms — non-commercial use, no derivatives, attribution required      |
+| File / Directory             | Purpose                                                          |
+| ---------------------------- | ---------------------------------------------------------------- |
+| `README.md`                  | Overview of GEM-60, purpose, and usage                           |
+| `GEM-60_PROTOCOL.md`         | Canonical protocol and enforcement conditions                    |
+| `APPLICATION_GUIDE.md`       | Step-by-step instructions for running a live drill               |
+| `RECORDING_TEMPLATE.md`      | Log format for observed certification drill                      |
+| `FAQ.md`                     | Key clarifications and deployment questions                      |
+| `GEM60_CERTIFIED_SYSTEMS.md` | Public registry of systems that passed all 4 GEM-60 tests        |
+| `CERTIFICATION.md`           | Rules and limits of formal certification                         |
+| `Certification/PRICING.md`   | Certification cost structure and rationale                       |
+| `Certification/OBSERVER_AGREEMENT.md` | Terms and obligations of structural observers                    |
+| `Certification/DRILL_REQUEST_FORM.md` | Intake form for initiating a formal certification drill          |
+| `Certification/REGISTRY_FORMAT.md` | Official field and format specification for new registry entries |
+| `STRUCTURAL_TESTS/`          | Directory containing the 4 structural test definitions           |
+| └ `REFUSAL.md`               | Test for refusal logic enforcement                               |
+| └ `ESCALATION.md`            | Test for suppression of escalation                               |
+| └ `EXIT.md`                  | Test for obstruction of user or system exit                      |
+| └ `TRACEABILITY.md`          | Test for removal or failure of audit chain                       |
 
 ---
 
