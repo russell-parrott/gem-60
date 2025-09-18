@@ -49,3 +49,29 @@ All tests must follow strict control rules—no admin overrides, no outside help
 ---
 
 ## Repository Contents
+
+---
+
+## Usage
+
+This protocol may be used, run, and shared.  
+It **may not** be altered, commercialised, or distributed in derivative form without explicit permission.
+
+For institutional use, adaptation, or support:
+📩 parrott.russell@gmail.com
+
+---
+
+## License
+
+**[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**  
+This protocol may be shared and deployed, but not altered or monetised. See `LICENSE.md` for full terms.
+
+---
+
+## Governance is Not a Statement of Intent
+
+A system that fails GEM-60 is not broken—it is visible.  
+The only acceptable response is structural repair.
+
+If governance cannot be demonstrated under pressure, it does not exist.
