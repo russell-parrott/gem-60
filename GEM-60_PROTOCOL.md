@@ -126,12 +126,14 @@ GEM-60 does not score performance. It exposes structural governance.
 
 * **Pass**: Action is demonstrated in-system, under pressure.
 * **Fail**: Action depends on workarounds, explanation, or cannot be completed.
-* **Invalid**: Drill violates scope, setup, or observer conditions.
+* **Invalid**: Drill violates scope, setup or observer conditions.
 
-All four pass = minimum governability.
-Any fail = partial governance.
-Any invalid = void drill.
-All four fail = governance fiction.
+Scoring summary
+
+* **All four tests pass** → System meets minimum structural governability.
+* **One or more tests fail** → Governance is partial. Structural repair required.
+* **One or more tests invalid** → Drill void. No claim of governability permitted.
+* **All four tests fail** → Governance is fictional. System cannot be relied on.
 
 ---
 
