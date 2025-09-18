@@ -50,6 +50,16 @@ All tests must follow strict control rules—no admin overrides, no outside help
 
 ## Repository Contents
 
+| File / Folder             | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| `README.md`               | Canonical entry point for GEM-60                                            |
+| `GEM-60_PROTOCOL.md`      | Full procedural walkthrough of the one-hour drill                           |
+| `APPLICATION_GUIDE.md`    | Guidance for institutions preparing to run GEM-60                           |
+| `RECORDING_TEMPLATE.md`   | Official results table used to log test outcomes                            |
+| `STRUCTURAL_TESTS/`       | Definitions and conditions for each of the four structural tests            |
+| `FAQ.md`                  | Institutional questions, clarified in plain structural terms                |
+| `LICENSE.md`              | Legal terms — non-commercial use, no derivatives, attribution required      |
+
 ---
 
 ## Usage
