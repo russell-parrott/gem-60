@@ -105,8 +105,18 @@ For institutional use, adaptation, or support:
 
 ## License
 
-**[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)**  
-This protocol may be shared and deployed, but not altered or monetised. See `LICENSE.md` for full terms.
+This work is released under a **dual-track licence**:
+
+- **Public Use:**  
+  Creative Commons [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).  
+  Free to share and cite for non-commercial purposes, without modifications.
+
+- **Institutional / Commercial Use:**  
+  A separate **Commercial Licence** is required for any use in compliance frameworks, governance policies, training, client deliverables, or regulatory submissions.  
+  See `COMMERCIAL-LICENCE.md` for full terms.
+
+**Summary:**  
+Free for knowledge. Paid for operationalisation.
 
 ---
 
