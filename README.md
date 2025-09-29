@@ -112,7 +112,14 @@ This work is released under a **dual-track licence**:
   Free to share and cite for non-commercial purposes, without modifications.
 
 - **Institutional / Commercial Use:**  
-  A separate **Commercial Licence** is required for any use in compliance frameworks, governance policies, training, client deliverables, or regulatory submissions.  
+  A separate **Commercial Licence** is required for any use in:
+  
+  - Compliance frameworks
+  - Governance policies
+  - Training
+  - Client deliverables
+  - Regulatory submissions.
+  - 
   See `COMMERCIAL-LICENCE.md` for full terms.
 
 **Summary:**  
