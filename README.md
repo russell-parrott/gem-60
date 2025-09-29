@@ -119,7 +119,7 @@ This work is released under a **dual-track licence**:
   - Training
   - Client deliverables
   - Regulatory submissions.
-  - 
+     
   See `COMMERCIAL-LICENCE.md` for full terms.
 
 **Summary:**  
