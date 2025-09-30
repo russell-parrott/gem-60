@@ -64,10 +64,6 @@ All tests must follow strict control rules—no admin overrides, no outside help
 | `FAQ.md`                     | Key clarifications and deployment questions                      |
 | `GEM60_CERTIFIED_SYSTEMS.md` | Public registry of systems that passed all 4 GEM-60 tests        |
 | `CERTIFICATION.md`           | Rules and limits of formal certification                         |
-| `Certification/PRICING.md`   | Certification cost structure and rationale                       |
-| `Certification/OBSERVER_AGREEMENT.md` | Terms and obligations of structural observers                    |
-| `Certification/DRILL_REQUEST_FORM.md` | Intake form for initiating a formal certification drill          |
-| `Certification/REGISTRY_FORMAT.md` | Official field and format specification for new registry entries |
 | `STRUCTURAL_TESTS/`          | Directory containing the 4 structural test definitions           |
 | └ `REFUSAL.md`               | Test for refusal logic enforcement                               |
 | └ `ESCALATION.md`            | Test for suppression of escalation                               |
