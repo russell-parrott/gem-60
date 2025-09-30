@@ -8,7 +8,7 @@ Operational use is not free. Any integration into compliance frameworks, governa
 
 There is no grey zone.
 
-If you are Deloitte, EY, PwC, KPMG, or any consultancy, law firm, regulator, or corporation using GEM-60 in professional practice, you need a Commercial Licence.
+If you are Deloitte, EY, PwC, KPMG, any consultancy, law firm, regulator or corporation using **GEM-60** in professional practice, you need a Commercial Licence.
 
 If you deploy without one, you are in breach of these published terms.
 
