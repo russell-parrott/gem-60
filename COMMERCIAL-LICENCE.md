@@ -1,3 +1,21 @@
+# Commercial Licence – GEM-60
+
+**GEM-60** is released under a dual-track licence.
+
+Knowledge use is free (CC BY-NC-ND 4.0). You may read, share, and cite without modification.
+
+Operational use is not free. Any integration into compliance frameworks, governance policies, training, client deliverables, or regulatory submissions requires a Commercial Licence.
+
+There is no grey zone.
+
+If you are Deloitte, EY, PwC, KPMG, or any consultancy, law firm, regulator, or corporation using GEM-60 in professional practice, you need a Commercial Licence.
+
+If you deploy without one, you are in breach of these published terms.
+
+Summary: Free for knowledge. Paid for operationalisation.
+
+---
+
 # Commercial Licence Agreement
 
 **Parties**  
