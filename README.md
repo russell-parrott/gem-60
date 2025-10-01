@@ -52,6 +52,9 @@ It is jurisdiction-neutral, vendor-agnostic, and reproducible by any institution
 All tests must follow strict control rules—no admin overrides, no outside help, no scripted demonstrations.
 
 ---
+[👉 **Download GEM-60**](https://github.com/russell-parrott/gem-60/downloads/gem-60.pdf)
+[👉 **Download The Enforcement Palybook**](https://github.com/russell-parrott/gem-60/downloads/gem-60-the-enforcement-playbook.pdf)
+---
 
 ## Repository Contents
 
