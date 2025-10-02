@@ -75,23 +75,6 @@ All tests must follow strict control rules—no admin overrides, no outside help
 
 ---
 
-## Companion: The Governance Illusion
-
-**The Governance Illusion: How Systems Pretend Accountability and Escape Consequence**  
-by Russell Parrott  
-
-This book provides the structural doctrine behind GEM-60. 
-
-It explains how institutions build systems that simulate governance while removing consequence, and why enforcement fails when it is reduced to surface compliance.
-
-Where the book maps the techniques, cosmetic logging, escalation loops and selective traceability, GEM-60 exposes them in practice.  
-Together, they form a closed loop: critique plus test, doctrine plus diagnostic.
-
-Read the book to see the architecture of breach:  
-[The Governance Illusion on Amazon](https://www.amazon.com/dp/B0FRZXPGT4)
-
----
-
 ## Usage
 
 This protocol may be used, run, and shared.  
