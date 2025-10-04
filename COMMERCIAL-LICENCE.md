@@ -4,15 +4,17 @@
 
 Knowledge use is free (CC BY-NC-ND 4.0). You may read, share, and cite without modification.
 
-Operational use is not free. Any integration into compliance frameworks, governance policies, training, client deliverables, or regulatory submissions requires a Commercial Licence.
+**Operational use is not free.** 
+
+Any integration of GEM-60 into compliance frameworks, governance policies, training, client deliverables, or regulatory submissions requires a Commercial Licence.
 
 There is no grey zone.
 
-If you are or represent, Deloitte's, EY, PwC, KPMG, any consultancy, law firm, regulator or corporation using **GEM-60** in professional practice, you need a Commercial Licence.
+If you are, or represent, a consultancy (including Deloitte, EY, PwC, KPMG), a law firm, a regulator, or any corporation using GEM-60 in professional practice, you must hold a valid Commercial Licence.
 
-If you deploy without one, you are in breach of these published terms.
+Use without licence constitutes a deliberate breach of these published terms.
 
-Summary: Free for knowledge. Paid for operationalisation.
+**Summary**: Free for knowledge. Paid for operationalisation.
 
 ---
 
